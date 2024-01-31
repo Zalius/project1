@@ -1,0 +1,15 @@
+<svg aria-labelledby="observability-icon-title" fill="none" height="28" role="img" viewBox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+    <title id="observability-icon-title">
+        An icon of a bar chart
+    </title>
+    <defs>
+        <linearGradient gradientUnits="userSpaceOnUse" id="icon-gradient-fill" x1="4" x2="40" y1="4" y2="24">
+            <stop stop-color="white" stop-opacity="0.2"></stop>
+            <stop offset="0" stop-color="white" stop-opacity="0.4"></stop>
+            <stop offset="0.5" stop-color="white"></stop>
+            <stop offset="0.75" stop-color="white" stop-opacity="0.4"></stop>
+            <stop offset="1" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+    </defs>
+    <path d="M8 17V20M12 14V20M16 11V20M20 8V20M6 25H22C22.7957 25 23.5587 24.6839 24.1213 24.1213C24.6839 23.5587 25 22.7957 25 22V6C25 5.20435 24.6839 4.44129 24.1213 3.87868C23.5587 3.31607 22.7957 3 22 3H6C5.20435 3 4.44129 3.31607 3.87868 3.87868C3.31607 4.44129 3 5.20435 3 6V22C3 22.7957 3.31607 23.5587 3.87868 24.1213C4.44129 24.6839 5.20435 25 6 25Z" stroke="url(#icon-gradient-fill)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+</svg>
