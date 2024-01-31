@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/project1/static/css/main.64579f66.css",
+    "main.js": "/project1/static/js/main.67d586a1.js",
+    "static/media/earth.mp4": "/project1/static/media/earth.a2703484bb9eee7d0c2e.mp4",
+    "static/media/3.jpg": "/project1/static/media/3.54e844e88faa0acd9dc6.jpg",
+    "static/media/7.jpg": "/project1/static/media/7.c6b4876295bab989dce3.jpg",
+    "static/media/6.jpg": "/project1/static/media/6.8a20cdd609c7a7273701.jpg",
+    "static/media/Morphling.jpg": "/project1/static/media/Morphling.83f206e6ba157af4a8cc.jpg",
+    "static/media/5.jpg": "/project1/static/media/5.a2806012a079243c59c4.jpg",
+    "static/media/solitude.jpg": "/project1/static/media/solitude.762b227e6b2f2dd534eb.jpg",
+    "static/media/2.jpg": "/project1/static/media/2.f48ed5b43f09f4eb8bf3.jpg",
+    "static/media/earth.jpg": "/project1/static/media/earth.bea7fd547ccc884c1cff.jpg",
+    "static/media/1.jpg": "/project1/static/media/1.9a651544983a46f3d05e.jpg",
+    "static/media/4.jpg": "/project1/static/media/4.e814f21778ca5bc5233d.jpg",
+    "static/media/Bioshock.jpg": "/project1/static/media/Bioshock.492e7f5cc87188ffb99b.jpg",
+    "static/media/aur.jpg": "/project1/static/media/aur.bcf458df750a606bd5b7.jpg",
+    "static/media/terminal.png": "/project1/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/project1/index.html",
+    "main.64579f66.css.map": "/project1/static/css/main.64579f66.css.map",
+    "main.67d586a1.js.map": "/project1/static/js/main.67d586a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64579f66.css",
+    "static/js/main.67d586a1.js"
+  ]
+}
